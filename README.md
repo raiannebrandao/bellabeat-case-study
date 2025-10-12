@@ -89,7 +89,7 @@ Bellabeat wants to understand how consumers use non-Bellabeat smart devices and 
 ---
 
 ## 🎥 Presentation Slides
-👉 [See my presentation here](./Fitbit%20Data%20Analysis.odp)  
+👉 [See my presentation here](./Fitbit%20Data%20Analysis.pdf)  
 
 ---
 
